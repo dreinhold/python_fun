@@ -1,0 +1,50 @@
+dylan@gasda-docker:~/code/sergio$ python3 user_fun_full.py 
+## User entry Dylan|Reinhold|M|43
+### FORMAL ###
+Mr Dylan Reinhold
+### Normal ###
+Dylan Reinhold
+### Casual ###
+Dylan
+### Last, First ###
+Dylan, Reinhold
+### Adult Check ###
+Dylan Reinhold Is an Adult aged 43
+### Male check ###
+Dylan is a male
+## User entry Bob|Jones|M|16
+### FORMAL ###
+Mr Bob Jones
+### Normal ###
+Bob Jones
+### Casual ###
+Bob
+### Last, First ###
+Bob, Jones
+### Adult Check ###
+### Male check ###
+Bob is a male
+## User entry Sally|Smith|F|33
+### FORMAL ###
+Ms Sally Smith
+### Normal ###
+Sally Smith
+### Casual ###
+Sally
+### Last, First ###
+Sally, Smith
+### Adult Check ###
+Sally Smith Is an Adult aged 33
+### Male check ###
+## User entry Nancy|Jones|F|15
+### FORMAL ###
+Ms Nancy Jones
+### Normal ###
+Nancy Jones
+### Casual ###
+Nancy
+### Last, First ###
+Nancy, Jones
+### Adult Check ###
+### Male check ###
+dylan@gasda-docker:~/code/sergio$ 
